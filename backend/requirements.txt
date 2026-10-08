@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+httpx>=0.27
+python-dotenv>=1.0
+python-multipart>=0.0.9
+edge-tts
+huggingface_hub>=0.26
+pillow>=10.0
+ddgs
+pypdf>=4.0

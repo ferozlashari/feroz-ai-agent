@@ -1,0 +1,3 @@
+# Scanned (tasveer wali) PDF ko pages me badal kar AI ko dikhane ke liye.
+# Install: pip install -r requirements-optional.txt
+pymupdf
